@@ -1,7 +1,7 @@
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = 'sk-proj-Nl0qdVBYwzVahrPHIs09T3BlbkFJ1s0XapDZ3Wb4k2NfIDPL'
+openai.api_key = input("oOPENAI API KEY:")
 
 def suggest_code(task, language):
     prompt = f"Write code in {language} to {task}"
