@@ -1,1 +1,1 @@
-It is just a prototype of what I am trying to build.
+Hello Everyone! It is a Python based Voice Assistant.I have built it for my personal uses.
